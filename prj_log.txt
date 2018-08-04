@@ -1,0 +1,128 @@
+***     prj_log.txt           ***
+**
+**      For images SEE   <prj_log.doc>
+**
+**      << Newest Entries at start of page >>
+**
+**      "file:///D:\$PRG$\$all$\140116_0234\ck10"
+
+**		
+**
+**		140116_0234
+**		D:\$PRG$\$all$\140116_0234\ck10				$ dk $ 021221_1813 $
+**
+**		$ dk $ 021221_1813 $		voor de subdir voor het project "ck10"
+**
+**		Be careful the "dk" shows up in more directory-trees.
+**		So not unique.
+**
+**
+**		$ dk $ 021221_1813 $ 	ook voor de subdir voor het project	"ck10_bkp150430"
+**
+**		D:\$PRG$\$all$\140116_0234\ck10_bkp150430
+**
+============================================================================================================
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+180804_0029
+to do:
+- app die:
+    - data in prj_log.txt zet
+	en
+	- in cloud db
+	- file upload dir met auto-versioning
+
+- suppress editor voor intelligent summaries with context sensibility
+- vull mdb file met file kenmerken
+- bewaak dat geen ansi types voor strings worden gebruikt, maar zuiver nog double-byte
+-
+
+log bkp''s in HD57 en HD65
+
+- check IMG tabel
+
+- txt-files tracer app op CPP-directories
+
+D:\$PRG$\$all$\140116_0234\ck10_bkp150430
+
+?? problemen met VS2017 door:
+- Acronis bkp job?
+- runnen van indexer van DocFetcher
+-
+
+------------------------------------------------------------------------------------------
+180803_1854
+Weer opnieuw was een probleem om de files te kunnen editen in Solution Explorer
+onder VS2017.
+
+Deze versie van ck10 bevindt zich in:
+140116_0234
+D:\$PRG$\$all$\140116_0234\ck10				$ dk $ 021221_1813 $
+
+solution_tree 
+
+------------------------------------------------------------------------------------------
+150402_1535
+To do:
+- prj_log.txt bijwerken
+- tzt ConsoleApplication1 verwijderen
+- De standaard files voor documentatie en naslag in 
+  deze solution opnemen.
+- De referentie sources voor ck10.cpp onder reference_sources
+  gaan opnemen.
+- file tags in ck10.cpp en reference main-files opnemen.
+
+
+------------------------------------------------------------------------------------------
+150331_0201
+Opnieuw een ck10.cpp gaan samenstellen met behulp van:
+http://www.devasp.net/net/articles/display/652.html
+afgedrukt naar pdf-file:
+http___www.devasp.net_net_articles_display_652.pdf
+Die file is geplaatst in de root van het project ck10.
+De file staat dus naast de gewone source files en de reference source-files.
+
+Bij add van een geheel new project in de Solution, verscheen:
+ConsoleApplication1_new_proj_VCPP_Win32.cpp
+Die wordt als 2e exe file gecompileerd. Het maakt niet uit waar, d.w.z. in welke map het nieuwe project wordt geplaatst.
+Het is echter handiger om een nieuw cpp item te maken door:
+1) nieuw text file te maken
+2) ipv extensie txt extensie cpp toevoegen
+Dan wordt het als source file meteen herkend. De juiste editor wordt dan meteen gekoppeld.
+
+------------------------------------------------------------------------------------------
+150331_0137
+ck10.cpp
+direct in Explorer.exe vervangen door een andere versie. De versie is van het web van MS gehaald.
+in de nieuwe ck10.cpp is het onderstaande opgenomen:
+//
+// 150331_0137
+//		ck10.cpp from MS website. Verwisselen met de actuele ck10.cpp. Buiten de IDE van VS dit doen met b.v. Explorer.
+//
+// 150331_0148
+//		Er wordt van 1 niveau in de tree alles getoond. D.w.z. alle directories en alle files.
+//		De subdirectories worden echter niet ingestapt om ook daar de files en subdirectories te tonen.
+//			Dus verder blijven zoeken. Het direct vervangen van ck10.cpp werkt wel prettig.
+//
+
+
+------------------------------------------------------------------------------------------
+150330 13.39
+Dit project is afgeleid van hele oude sources.
+info_ck.txt
+moet worden overgenomen in deze file.
+
+file: info_ck.txt
+see ck10.cpp header logging!
+
+In this project the common documents for logging and source and test documentation are missing.
+See the project about db_insert during 2014 and 2015 as an example.
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+
+

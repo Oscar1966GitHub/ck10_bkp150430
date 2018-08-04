@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "ck10", "ck10.exe", "{6706DFE7-D315-4D41-A1E5-E916912FE667}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = D:\$PRG$\$all$\140116_0234\arc\ck10\arc\arc_complete_sln\ck10_main_prj\arc\ck10_arc021221\Debug\ck10.exe
+		RemoteMachine = NBT
+		StartingDirectory = D:\$PRG$\$all$\140116_0234\arc\ck10\arc\arc_complete_sln\ck10_main_prj\arc\ck10_arc021221\Debug
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6706DFE7-D315-4D41-A1E5-E916912FE667}.Debug|x86.ActiveCfg = Debug
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

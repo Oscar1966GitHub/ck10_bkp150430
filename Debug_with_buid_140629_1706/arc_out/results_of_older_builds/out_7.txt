@@ -1,0 +1,57 @@
+access	
+Shortcut to frm6_view_rela_actual_full in ckdb3.MAF
+s_adres.bat
+End of showing file(s).
+
+End of showing directory(ies). 
+
+mediaplayers	
+media_start.bat
+End of showing file(s).
+
+End of showing directory(ies). 
+
+router	
+cycle_ipconfig_all.txt
+cycle_tracert.txt
+enter.txt
+ping_cycle2.bat
+yes.txt
+End of showing file(s).
+
+test1	
+cycle_ipconfig_all.txt
+cycle_tracert.txt
+End of showing file(s).
+
+End of showing directory(ies). 
+
+test2	
+cycle_ipconfig_all.txt
+cycle_tracert.txt
+End of showing file(s).
+
+End of showing directory(ies). 
+
+End of showing directory(ies). 
+
+Tests	
+DUURTEST.BAT
+duurtest2.bat
+duurtest3.bat
+duurtest4.bat
+duurtest5.bat
+PINGLUS.BAT
+xx.doc
+End of showing file(s).
+
+sub_level	
+test.txt
+End of showing file(s).
+
+End of showing directory(ies). 
+
+End of showing directory(ies). 
+
+End of showing directory(ies). 
+

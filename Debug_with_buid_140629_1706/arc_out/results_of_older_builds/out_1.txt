@@ -1,0 +1,21 @@
+ck10.bsc
+ck10.exe
+ck10.ilk
+ck10.obj
+ck10.pch
+ck10.pdb
+ck10.res
+ck10.sbr
+data2
+out.txt
+StdAfx.obj
+StdAfx.sbr
+vc60.idb
+vc60.pdb
+End of showing files
+
+.
+..
+End of showing directories
+
+sub_level	
